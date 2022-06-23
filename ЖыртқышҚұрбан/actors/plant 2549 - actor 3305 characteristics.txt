@@ -1,0 +1,4 @@
+Actor ID = 3305
+Actor role = plant
+Actor birth = 35
+Actor death = 85

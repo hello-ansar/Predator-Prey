@@ -1,0 +1,15 @@
+Actor ID = 541
+Actor role = predator
+Actor size = 5
+Actor walkspeed = 9
+Actor viewdistance = 59
+Actor longevity = 1000
+Actor parent1 = -1
+Actor parent2 = -1
+Actor birth = 0
+Actor death = 183
+Actor age = 799
+Actor lifespan = 793
+Cause of death = old age
+Offspring = 1
+Enemies eaten = 2

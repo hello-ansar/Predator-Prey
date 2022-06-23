@@ -1,0 +1,4 @@
+Actor ID = 1707
+Actor role = plant
+Actor birth = 0
+Actor death = 55

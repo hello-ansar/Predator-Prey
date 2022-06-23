@@ -1,0 +1,15 @@
+Actor ID = 3656
+Actor role = prey
+Actor size = 3
+Actor walkspeed = 5
+Actor viewdistance = 48
+Actor longevity = 904
+Actor parent1 = 3274
+Actor parent2 = 415
+Actor birth = 119
+Actor death = 142
+Actor age = 22
+Actor lifespan = 652
+Cause of death = eaten by actor 681
+Offspring = 0
+Enemies eaten = 0

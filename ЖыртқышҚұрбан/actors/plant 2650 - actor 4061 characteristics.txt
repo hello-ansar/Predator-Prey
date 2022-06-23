@@ -1,0 +1,4 @@
+Actor ID = 4061
+Actor role = plant
+Actor birth = 192
+Actor death = 201

@@ -1,0 +1,4 @@
+Actor ID = 3096
+Actor role = plant
+Actor birth = 0
+Actor death = 2

@@ -1,0 +1,4 @@
+Actor ID = 3411
+Actor role = plant
+Actor birth = 56
+Actor death = 174

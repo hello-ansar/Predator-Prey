@@ -1,0 +1,4 @@
+Actor ID = 3076
+Actor role = plant
+Actor birth = 0
+Actor death = 171
